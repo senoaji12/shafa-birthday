@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shafa-birthday/static/css/main.c0447bae.css",
+    "main.js": "/shafa-birthday/static/js/main.0987c10d.js",
+    "static/js/453.9c2b4894.chunk.js": "/shafa-birthday/static/js/453.9c2b4894.chunk.js",
+    "static/media/background-song.mp3": "/shafa-birthday/static/media/background-song.e21f17997023cf7bfd12.mp3",
+    "static/media/fotolima.png": "/shafa-birthday/static/media/fotolima.5b25fcb193414f05e8aa.png",
+    "static/media/fotosatu.png": "/shafa-birthday/static/media/fotosatu.5bf175510c56c8b5c185.png",
+    "static/media/fotoenam.png": "/shafa-birthday/static/media/fotoenam.2a6e6bc92e6fd3d79392.png",
+    "static/media/fotoduabelas.png": "/shafa-birthday/static/media/fotoduabelas.ec18876080856f9c3c75.png",
+    "static/media/fototiga.png": "/shafa-birthday/static/media/fototiga.b1f7722f13c72d6dadb9.png",
+    "static/media/fotoempat.png": "/shafa-birthday/static/media/fotoempat.d453e9c1fc3bd9c8f2f2.png",
+    "static/media/fotodua.png": "/shafa-birthday/static/media/fotodua.3b66dd5ca18e3c951cf2.png",
+    "static/media/fototujuh.png": "/shafa-birthday/static/media/fototujuh.4910ccececb8ba10fe42.png",
+    "static/media/fotosembilan.png": "/shafa-birthday/static/media/fotosembilan.533c6dae7f2eb3a15284.png",
+    "static/media/fotosebelas.png": "/shafa-birthday/static/media/fotosebelas.e9a7e4e699bc27899d9f.png",
+    "static/media/fotodelapan.png": "/shafa-birthday/static/media/fotodelapan.811b3f0e0c1536b59143.png",
+    "static/media/fotosepuluh.png": "/shafa-birthday/static/media/fotosepuluh.791ad43f4a0bb256eee9.png",
+    "static/media/PANDUAN PENGGUNAAN BIRTHDAY LOVE WEBSITE ❤.pdf": "/shafa-birthday/static/media/PANDUAN PENGGUNAAN BIRTHDAY LOVE WEBSITE ❤.50e56f1cd222efefb6b0.pdf",
+    "index.html": "/shafa-birthday/index.html",
+    "main.c0447bae.css.map": "/shafa-birthday/static/css/main.c0447bae.css.map",
+    "main.0987c10d.js.map": "/shafa-birthday/static/js/main.0987c10d.js.map",
+    "453.9c2b4894.chunk.js.map": "/shafa-birthday/static/js/453.9c2b4894.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0447bae.css",
+    "static/js/main.0987c10d.js"
+  ]
+}
